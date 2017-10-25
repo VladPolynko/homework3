@@ -1,0 +1,15 @@
+{
+    "name": "root/opp_lib_example",
+    "authors": [
+        {
+            "name": "VladPolynko",
+            "email": "vlad.polynko@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lib\\": "src/"
+        }
+    }
+}
